@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi">BMI</string>
+    <string name="please_enter_your_weight_in_kg">please enter your weight in kg.</string>
+    <string name="please_enter_your_height_in_cm">please enter your height in cm.</string>
+</resources>
